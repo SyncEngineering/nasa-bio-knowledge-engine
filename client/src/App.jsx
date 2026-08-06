@@ -18,7 +18,7 @@ function App() {
   return (
     <Router>
       {/* *** CHANGE: Render the warning component here *** */}
-      <DesktopOnlyWarning /> 
+      {/* <DesktopOnlyWarning />  */}
       
       <Routes>
         {/* Dashboard Route (Uses your existing component, which has the sidebar) */}
