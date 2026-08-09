@@ -64,20 +64,6 @@ To get a local copy up and running, follow these simple steps.
 
 ---
 
-
-## 👨‍🚀 Team
-
-| Name | Role |
-| :--- | :--- |
-| [Jeremia Xavier] | [Developer] |
-| [Abhinav Sajeev] | [QA] |
-| [Nithina M P] | [UI/UX] |
-| [Umesh S] | [Researcher] |
-| [Tejas] | [Developer] |
-| [Adon Renji] | [QA] |
-
----
-
 ## 📄 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
